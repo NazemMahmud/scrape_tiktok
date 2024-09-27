@@ -1,0 +1,7 @@
+.idea
+.vscode
+
+.DS_Module
+*/.DS_Module
+
+node_modules
